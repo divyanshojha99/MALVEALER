@@ -10,4 +10,4 @@
   - **If you want all source files/testing or have a doubt then write a mail-- divyanshojha2003@gmail.com**
 
 
-### Credits--- <a href="https://github.com/divyanshojha99" target="blank"><img  align="center" src="https://i.ibb.co/g77vvbq/download-5.jpg" alt="Divyansh ojha" height="45" width="60" /></a>
+### Credits- <a href="https://github.com/divyanshojha99" target="blank"><img  align="center" src="https://i.ibb.co/g77vvbq/download-5.jpg" alt="Divyansh ojha" height="45" width="60" /></a>

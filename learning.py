@@ -37,7 +37,7 @@ for f in range(nb_features):
 
 # Take care of the feature order
 for f in sorted(np.argsort(fsel.feature_importances_)[::-1][:nb_features]):
-    features.append(data.columns[2+f])
+    feature.append(data.columns[2+f])
 
 #Algorithm comparison
 algorithms = {

@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['malvealer.py'],
-             pathex=['D:\\Mrida\\mrida_gui'],
+             pathex=['D:\\github\\malware'],
              binaries=[],
              datas=[],
              hiddenimports=[],

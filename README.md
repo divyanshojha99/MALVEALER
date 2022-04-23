@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/NxWbPmT/MALVEALER-1.png" height="500" width="450"/>
+  <img src="logo.png" height="400" width="450"/>
 </p>
 <hr>
 <h1 align="center"><img src="https://media2.giphy.com/media/3oKIP657aH5QRMkX3q/200w.webp?cid=ecf05e47mikny9esu5y8qbgtrsiz2043qip7rllq2ezixxhv&rid=200w.webp&ct=g" width="24px"> MARVEALER <img src="https://media2.giphy.com/media/3oKIP657aH5QRMkX3q/200w.webp?cid=ecf05e47mikny9esu5y8qbgtrsiz2043qip7rllq2ezixxhv&rid=200w.webp&ct=g" width="24px"></h1>
